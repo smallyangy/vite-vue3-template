@@ -7,6 +7,7 @@
 <script>
 import { defineComponent } from 'vue';
 import axios from '../utils/axios';
+
 export default defineComponent({
     setup() {
         axios
