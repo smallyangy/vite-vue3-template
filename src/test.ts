@@ -1,4 +1,4 @@
 const x = 'hello';
-const a = 12;
+const a = 14;
 
 console.log(x, a);
