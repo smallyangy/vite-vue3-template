@@ -1,3 +1,4 @@
 const x = 'hello';
+const a = 12;
 
-console.log(x);
+console.log(x, a);
