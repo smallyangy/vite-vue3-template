@@ -1,8 +1,12 @@
 <template>
-    <div>home</div>
+    <div>
+        <div>home</div>
+        <router-link to="/vuex">vuex</router-link>
+        <router-link to="/axios">axios</router-link>
+    </div>
 </template>
 
-<script>
+<script lang="ts">
 export default {};
 </script>
 
