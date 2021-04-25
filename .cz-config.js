@@ -1,3 +1,4 @@
+// git cz提交时的配置选项
 module.exports = {
   // type 类型（定义之后，可通过上下键选择）
   types: [
@@ -17,10 +18,11 @@ module.exports = {
   // scope 类型（定义之后，可通过上下键选择）
   scopes: [
     ['components', '组件相关'],
-    ['hooks', 'hook 相关'],
+    ['view', '页面相关'],
+    ['business', '业务相关'],
     ['utils', 'utils 相关'],
-    ['element-ui', '对 element-ui 的调整'],
     ['styles', '样式相关'],
+    ['hooks', 'hook 相关'],
     ['deps', '项目依赖'],
     ['auth', '对 auth 修改'],
     ['other', '其他修改'],
