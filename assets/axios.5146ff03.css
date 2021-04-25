@@ -1,0 +1,1 @@
+.title h2{color:orange}.title .user-cell{display:flex;align-items:center}.title .user-cell .img{width:60px;height:60px;border-radius:50%;flex:none}.title .user-cell .info{flex:1;margin-left:20px}.title .user-cell .info .name{font-weight:700}.title .user-cell .info .website{font-size:12px}.title .user-cell .info .website a{color:#999}
